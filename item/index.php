@@ -1,5 +1,5 @@
 <?php
-require_once('../../config.php');
+require_once('../../../config.php');
 define('block_edutrader_item', 'hexgl');
 require($CFG->dirroot . '/blocks/edutrader/launch.php');
 ?><!doctype html>
