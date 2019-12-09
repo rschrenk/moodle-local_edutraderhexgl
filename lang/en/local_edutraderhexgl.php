@@ -21,6 +21,5 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['itemtitle'] = 'HexGL';
 $string['pluginname'] = 'eduTrader - HexGL';
 $string['privacy:metadata'] = 'Not storing personal information';

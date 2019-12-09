@@ -29,6 +29,7 @@ function xmldb_local_edutraderhexgl_install(){
         'duration' => 600,
         'itemid' => 'hexgl',
         'price' => 100,
+        'title' => 'Hex-GL',
         'type' => 'smartness',
     );
     $DB->insert_record('block_edutrader_items', $obj, true);
