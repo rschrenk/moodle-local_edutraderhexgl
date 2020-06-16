@@ -23,7 +23,7 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-function xmldb_local_edutraderhexgl_uninstall(){
+function xmldb_local_edutraderhexgl_uninstall() {
     global $DB;
     $DB->delete_records('block_edutrader_items', array('itemid' => 'hexgl'));
 }

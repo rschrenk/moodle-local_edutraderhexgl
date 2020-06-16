@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * @package   local_edutrader_1024moves
+ * @package   local_edutraderhexgl
  * @copyright 2020 Center for Learning Management (www.lernmanagement.at)
  * @author    Robert Schrenk
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
